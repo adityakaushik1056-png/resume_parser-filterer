@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: my-app
+    env: python
+    pythonVersion: 3.12.2
